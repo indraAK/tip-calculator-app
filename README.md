@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-sunnyside-agency-landing-page-using-html-css-and-js-T3VvmpLcB)
-- Live Site URL: [live site URL](https://focused-chandrasekhar-e687c5.netlify.app/)
+- Live Site URL: [live site URL](https://hungry-meitner-843e20.netlify.app/)
 
 ## Built with
 
